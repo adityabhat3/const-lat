@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+*.Identifier
+.envrc
+*.png
+*.pdf
+*.txt
+*.csv
+*.bak

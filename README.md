@@ -17,13 +17,27 @@ The technical paper "On the Constancy of Latency at the Internet's Edge" present
 
 `data/raw`: contains 400 raw measurement data JSON files that we collected using RIPE Atlas. The `N` in `data/raw/measurement_N_results.json` is the unique measurement ID assigned by RIPE Atlas to this measurement. Please refer to our paper for more details.
 
+Work in progress...
+
 ## Installation
 
-Work in progress.
+It is recommended to use a Python virtual environment:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Then install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+You also need to follow the installation in https://github.com/SmartMonitoringSchemes/HDPHMM.jl/tree/master to use the HMM-HDP method.
 
 ## Usage
 
-Work in progress. 
+Work in progress...
 
 ## Citation
 

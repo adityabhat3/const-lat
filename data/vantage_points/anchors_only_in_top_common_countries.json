@@ -1,0 +1,82 @@
+{
+    "998": {
+        "country": "AU",
+        "as": 4608,
+        "fqdn": "au-bne-as4608-2.anchors.atlas.ripe.net"
+    },
+    "331": {
+        "country": "AU",
+        "as": 4608,
+        "fqdn": "au-bne-as4608.anchors.atlas.ripe.net"
+    },
+    "1491": {
+        "country": "AU",
+        "as": 9268,
+        "fqdn": "au-syd-as9268.anchors.atlas.ripe.net"
+    },
+    "1110": {
+        "country": "BR",
+        "as": 10417,
+        "fqdn": "br-bhz-as10417.anchors.atlas.ripe.net"
+    },
+    "2334": {
+        "country": "BR",
+        "as": 10417,
+        "fqdn": "br-bhz-as10417-client.anchors.atlas.ripe.net"
+    },
+    "1164": {
+        "country": "BR",
+        "as": 19200,
+        "fqdn": "br-poa-as19200.anchors.atlas.ripe.net"
+    },
+    "3116": {
+        "country": "US",
+        "as": 40138,
+        "fqdn": "ca-fre-as40138.anchors.atlas.ripe.net"
+    },
+    "2544": {
+        "country": "US",
+        "as": 398355,
+        "fqdn": "us-abs-as398355.anchors.atlas.ripe.net"
+    },
+    "2898": {
+        "country": "JP",
+        "as": 142616,
+        "fqdn": "jp-tyo-as142616.anchors.atlas.ripe.net"
+    },
+    "1475": {
+        "country": "JP",
+        "as": 2497,
+        "fqdn": "jp-tyo-as2497.anchors.atlas.ripe.net"
+    },
+    "3256": {
+        "country": "SG",
+        "as": 132337,
+        "fqdn": "sg-sin-as132337.anchors.atlas.ripe.net"
+    },
+    "2873": {
+        "country": "SG",
+        "as": 141235,
+        "fqdn": "sg-sin-as141235.anchors.atlas.ripe.net"
+    },
+    "803": {
+        "country": "GB",
+        "as": 25376,
+        "fqdn": "uk-blt-as25376.anchors.atlas.ripe.net"
+    },
+    "2067": {
+        "country": "GB",
+        "as": 25376,
+        "fqdn": "uk-blt-as25376.anchors.atlas.ripe.net"
+    },
+    "848": {
+        "country": "GB",
+        "as": 786,
+        "fqdn": "uk-did-as786.anchors.atlas.ripe.net"
+    },
+    "1915": {
+        "country": "GB",
+        "as": 786,
+        "fqdn": "uk-did-as786.anchors.atlas.ripe.net"
+    }
+}

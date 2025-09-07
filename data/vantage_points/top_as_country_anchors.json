@@ -1,0 +1,267 @@
+{
+    "3387": {
+        "country": "AE",
+        "as": 3491,
+        "fqdn": "ae-dxb-as3491.anchors.atlas.ripe.net"
+    },
+    "3045": {
+        "country": "AU",
+        "as": 3491,
+        "fqdn": "au-syd-as3491.anchors.atlas.ripe.net"
+    },
+    "2218": {
+        "country": "DE",
+        "as": 3491,
+        "fqdn": "de-fra-as3491.anchors.atlas.ripe.net"
+    },
+    "1987": {
+        "country": "HK",
+        "as": 3491,
+        "fqdn": "hk-hkg-as3491.anchors.atlas.ripe.net"
+    },
+    "3043": {
+        "country": "JP",
+        "as": 3491,
+        "fqdn": "jp-tyo-as3491.anchors.atlas.ripe.net"
+    },
+    "3315": {
+        "country": "KR",
+        "as": 3491,
+        "fqdn": "kr-sel-as3491.anchors.atlas.ripe.net"
+    },
+    "2761": {
+        "country": "MY",
+        "as": 3491,
+        "fqdn": "my-kul-as3491.anchors.atlas.ripe.net"
+    },
+    "2219": {
+        "country": "MZ",
+        "as": 3491,
+        "fqdn": "mz-mpm-as3491.anchors.atlas.ripe.net"
+    },
+    "2756": {
+        "country": "SG",
+        "as": 3491,
+        "fqdn": "sg-sin-as3491.anchors.atlas.ripe.net"
+    },
+    "2328": {
+        "country": "TW",
+        "as": 3491,
+        "fqdn": "tw-tpe-as3491.anchors.atlas.ripe.net"
+    },
+    "2758": {
+        "country": "GB",
+        "as": 3491,
+        "fqdn": "uk-lon-as3491.anchors.atlas.ripe.net"
+    },
+    "2298": {
+        "country": "US",
+        "as": 3491,
+        "fqdn": "us-lax-as3491.anchors.atlas.ripe.net"
+    },
+    "1988": {
+        "country": "US",
+        "as": 3491,
+        "fqdn": "us-rtv-as3491.anchors.atlas.ripe.net"
+    },
+    "2220": {
+        "country": "ZA",
+        "as": 3491,
+        "fqdn": "za-jnb-as3491.anchors.atlas.ripe.net"
+    },
+    "1975": {
+        "country": "AU",
+        "as": 199524,
+        "fqdn": "au-syd-as199524.anchors.atlas.ripe.net"
+    },
+    "1974": {
+        "country": "BR",
+        "as": 199524,
+        "fqdn": "br-sao-as199524.anchors.atlas.ripe.net"
+    },
+    "1984": {
+        "country": "FR",
+        "as": 199524,
+        "fqdn": "fr-par-as199524.anchors.atlas.ripe.net"
+    },
+    "1978": {
+        "country": "IT",
+        "as": 199524,
+        "fqdn": "it-mil-as199524.anchors.atlas.ripe.net"
+    },
+    "1926": {
+        "country": "JP",
+        "as": 199524,
+        "fqdn": "jp-tyo-as199524.anchors.atlas.ripe.net"
+    },
+    "1947": {
+        "country": "KR",
+        "as": 199524,
+        "fqdn": "kr-sel-as199524.anchors.atlas.ripe.net"
+    },
+    "1982": {
+        "country": "PL",
+        "as": 199524,
+        "fqdn": "pl-wrs-as199524.anchors.atlas.ripe.net"
+    },
+    "1976": {
+        "country": "TR",
+        "as": 199524,
+        "fqdn": "tr-ist-as199524.anchors.atlas.ripe.net"
+    },
+    "1990": {
+        "country": "GB",
+        "as": 199524,
+        "fqdn": "uk-lon-as199524.anchors.atlas.ripe.net"
+    },
+    "1925": {
+        "country": "US",
+        "as": 199524,
+        "fqdn": "us-chi-as199524.anchors.atlas.ripe.net"
+    },
+    "1945": {
+        "country": "US",
+        "as": 199524,
+        "fqdn": "us-mia-as199524.anchors.atlas.ripe.net"
+    },
+    "1526": {
+        "country": "AU",
+        "as": 20473,
+        "fqdn": "au-syd-as20473.anchors.atlas.ripe.net"
+    },
+    "1521": {
+        "country": "CA",
+        "as": 20473,
+        "fqdn": "ca-tor-as20473.anchors.atlas.ripe.net"
+    },
+    "1525": {
+        "country": "DE",
+        "as": 20473,
+        "fqdn": "de-fra-as20473.anchors.atlas.ripe.net"
+    },
+    "1522": {
+        "country": "FR",
+        "as": 20473,
+        "fqdn": "fr-par-as20473.anchors.atlas.ripe.net"
+    },
+    "1528": {
+        "country": "JP",
+        "as": 20473,
+        "fqdn": "jp-tyo-as20473.anchors.atlas.ripe.net"
+    },
+    "1524": {
+        "country": "NL",
+        "as": 20473,
+        "fqdn": "nl-ams-as20473.anchors.atlas.ripe.net"
+    },
+    "2896": {
+        "country": "SE",
+        "as": 20473,
+        "fqdn": "se-sto-as20473.anchors.atlas.ripe.net"
+    },
+    "1527": {
+        "country": "SG",
+        "as": 20473,
+        "fqdn": "sg-sin-as20473.anchors.atlas.ripe.net"
+    },
+    "1523": {
+        "country": "GB",
+        "as": 20473,
+        "fqdn": "uk-lon-as20473.anchors.atlas.ripe.net"
+    },
+    "1518": {
+        "country": "US",
+        "as": 20473,
+        "fqdn": "us-atl-as20473.anchors.atlas.ripe.net"
+    },
+    "1512": {
+        "country": "US",
+        "as": 20473,
+        "fqdn": "us-chi-as20473.anchors.atlas.ripe.net"
+    },
+    "2471": {
+        "country": "AE",
+        "as": 12008,
+        "fqdn": "ae-ofj-as12008.anchors.atlas.ripe.net"
+    },
+    "2472": {
+        "country": "AU",
+        "as": 12008,
+        "fqdn": "au-mel-as12008.anchors.atlas.ripe.net"
+    },
+    "2473": {
+        "country": "AU",
+        "as": 12008,
+        "fqdn": "au-syd-as12008.anchors.atlas.ripe.net"
+    },
+    "2474": {
+        "country": "BR",
+        "as": 12008,
+        "fqdn": "br-sao-as12008.anchors.atlas.ripe.net"
+    },
+    "2475": {
+        "country": "CO",
+        "as": 12008,
+        "fqdn": "co-bog-as12008.anchors.atlas.ripe.net"
+    },
+    "2484": {
+        "country": "ES",
+        "as": 12008,
+        "fqdn": "es-mad-as12008.anchors.atlas.ripe.net"
+    },
+    "2519": {
+        "country": "IN",
+        "as": 12008,
+        "fqdn": "in-bom-as12008.anchors.atlas.ripe.net"
+    },
+    "2523": {
+        "country": "IN",
+        "as": 12008,
+        "fqdn": "in-del-as12008.anchors.atlas.ripe.net"
+    },
+    "2495": {
+        "country": "PL",
+        "as": 12008,
+        "fqdn": "pl-waw-as12008.anchors.atlas.ripe.net"
+    },
+    "2498": {
+        "country": "TW",
+        "as": 12008,
+        "fqdn": "tw-tpe-as12008.anchors.atlas.ripe.net"
+    },
+    "2507": {
+        "country": "ZA",
+        "as": 12008,
+        "fqdn": "za-jnb-as12008.anchors.atlas.ripe.net"
+    },
+    "1061": {
+        "country": "BR",
+        "as": 15133,
+        "fqdn": "br-sao-as15133.anchors.atlas.ripe.net"
+    },
+    "1279": {
+        "country": "HK",
+        "as": 15133,
+        "fqdn": "hk-hkg-as15133.anchors.atlas.ripe.net"
+    },
+    "1278": {
+        "country": "JP",
+        "as": 15133,
+        "fqdn": "jp-tyo-as15133.anchors.atlas.ripe.net"
+    },
+    "1280": {
+        "country": "SG",
+        "as": 15133,
+        "fqdn": "sg-sin-as15133.anchors.atlas.ripe.net"
+    },
+    "1064": {
+        "country": "US",
+        "as": 15133,
+        "fqdn": "us-abn-as15133.anchors.atlas.ripe.net"
+    },
+    "1793": {
+        "country": "US",
+        "as": 15133,
+        "fqdn": "us-atl-as15133.anchors.atlas.ripe.net"
+    }
+}

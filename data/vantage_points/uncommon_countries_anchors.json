@@ -1,0 +1,52 @@
+{
+    "1370": {
+        "country": "AT",
+        "as": 48362,
+        "fqdn": "at-fkt-as48362.anchors.atlas.ripe.net"
+    },
+    "1744": {
+        "country": "CL",
+        "as": 27678,
+        "fqdn": "cl-scl-as27678.anchors.atlas.ripe.net"
+    },
+    "1211": {
+        "country": "FI",
+        "as": 203296,
+        "fqdn": "fi-hel-as203296.anchors.atlas.ripe.net"
+    },
+    "326": {
+        "country": "HU",
+        "as": 12303,
+        "fqdn": "hu-bud-as12303.anchors.atlas.ripe.net"
+    },
+    "799": {
+        "country": "KW",
+        "as": 42961,
+        "fqdn": "kw-kwi-as42961.anchors.atlas.ripe.net"
+    },
+    "1346": {
+        "country": "MX",
+        "as": 22894,
+        "fqdn": "mx-tte-as22894-2.anchors.atlas.ripe.net"
+    },
+    "1224": {
+        "country": "SA",
+        "as": 50999,
+        "fqdn": "sa-mak-as50999.anchors.atlas.ripe.net"
+    },
+    "2181": {
+        "country": "SX",
+        "as": 27781,
+        "fqdn": "sx-phi-as27781.anchors.atlas.ripe.net"
+    },
+    "789": {
+        "country": "TZ",
+        "as": 327844,
+        "fqdn": "tz-dar-as327844.anchors.atlas.ripe.net"
+    },
+    "2026": {
+        "country": "VN",
+        "as": 24173,
+        "fqdn": "vn-sgn-as24173.anchors.atlas.ripe.net"
+    }
+}

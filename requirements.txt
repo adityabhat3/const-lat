@@ -1,0 +1,11 @@
+geoip2
+geopy
+julia
+matplotlib
+mpl_toolkits.basemap
+numpy
+palettable
+pandas
+pycountry-convert
+requests
+scipy

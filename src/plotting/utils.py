@@ -9,8 +9,10 @@ import io
 import pandas as pd
 import sys
 
+
 def open(in_file, mode):
-    return io.open(in_file, mode, encoding='utf-8')
+    return io.open(in_file, mode, encoding="utf-8")
+
 
 def load_csv(csv_file, column_label, remove_nan=True, out=sys.stdout):
     """
@@ -20,10 +22,10 @@ def load_csv(csv_file, column_label, remove_nan=True, out=sys.stdout):
     """
     # Read CSV file into a DataFrame
     df = pd.read_csv(csv_file)
-    
+
     # Select the column by label
     col = df[column_label]
-    
+
     # Remove NaN values, if specified
     if remove_nan:
         col = col.dropna()
@@ -35,8 +37,7 @@ def load_csv(csv_file, column_label, remove_nan=True, out=sys.stdout):
     cum_prob = np.arange(1, N + 1) / N
 
     mean = np.mean(col_sorted)
-    quantiles = np.quantile(col_sorted,
-                            (0.10, 0.25, 0.50, 0.75, 0.9, 0.95, 0.99))
+    quantiles = np.quantile(col_sorted, (0.10, 0.25, 0.50, 0.75, 0.9, 0.95, 0.99))
     sdev = np.std(col_sorted)
 
     count_zeros = (col_sorted == 0).sum()
@@ -48,7 +49,7 @@ def load_csv(csv_file, column_label, remove_nan=True, out=sys.stdout):
     # print(fraction_gt_10)
     out.write("#<mean> <p10> <p25> <p50> <p75> <p90> <p95> <p99> <sdev>\n")
     out.write(f"{mean:.2f} ")
-    out.write(' '.join((f"{v:.2f}" for v in quantiles)))
+    out.write(" ".join((f"{v:.2f}" for v in quantiles)))
     out.write(f" {sdev:.2f}")
     out.write("\n")
 

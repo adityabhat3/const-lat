@@ -26,8 +26,12 @@ The technical paper "On the Constancy of Latency at the Internet's Edge" present
 
 Notes:
 - Filenames under `data/raw/` follow the pattern `measurement_<ID>_results.json`, where `<ID>` is the RIPE Atlas measurement identifier described in the paper.
+- We do not distribute MaxMind (GeoLite2/GeoIP2) or IPinfo geolocation datasets in this repository.
+- To reproduce geolocation-dependent steps, please obtain these datasets yourself (respecting their licenses) at https://ipinfo.io/dashboard/enrich and https://www.maxmind.com/en/geoip-databases and configure local paths/API keys accordingly.
 
-Work in progress... 
+
+
+
 
 ## Installation
 

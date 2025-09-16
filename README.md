@@ -29,10 +29,6 @@ Notes:
 - We do not distribute MaxMind (GeoLite2/GeoIP2) or IPinfo geolocation datasets in this repository.
 - To reproduce geolocation-dependent steps, please obtain these datasets yourself (respecting their licenses) at https://ipinfo.io/dashboard/enrich and https://www.maxmind.com/en/geoip-databases and configure local paths/API keys accordingly.
 
-
-
-
-
 ## Installation
 
 It is recommended to use a Python virtual environment:
@@ -62,6 +58,8 @@ The notebooks in `notebooks/` are organized as follows:
 - `SlidePlots.ipynb`: produces presentation figures.
 
 Placeholders: Obvious data path placeholders have been replaced to point into `data/` (e.g., anchor and anchors-details JSON files, input results dir). You may still need to provide external paths for any API credentials if you intend to re-run data collection.
+
+The `src/` directory contains reusable code that backs the notebooks and reproduces figures. In particular, `src/plotting/` holds self-contained scripts for paper figures; each script typically reads prepared CSV/JSON from `data/csv/` (and sometimes `data/text/`) and writes publication-ready figures to `data/plots/`. Common flags are defined in `src/plotting/options.py`, and shared helpers (styling, label/axis formatting, simple I/O) live in `src/plotting/utils.py`. Other subdirectories under `src/` include processing utilities and small tools used during analysis.
 
  Work in progress...
 

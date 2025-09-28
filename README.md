@@ -1,17 +1,11 @@
 # On the Constancy of Latency at the Internet's Edge
 
-Thank you for your interest in our work!
+The technical paper "On the Constancy of Latency at the Internet's Edge" presented at TMA Conference 2025 is available [here](https://tma.ifip.org/2025/wp-content/uploads/sites/14/2025/06/tma2025_paper10.pdf)
 
-This repository will contain the code and data associated with our paper. We are in the process of organizing and uploading all materials, and everything will be made available shortly.
-
-Please check back soon, and feel free to reach out if you have any questions in the meantime.
+Thank you for your interest in our work! This repository contains the code and data associated with our paper. Feel free to reach out if you have any questions.
 
 - By Aditya, Vaibhav, Aniket, Bala, and Vinayak
 - Email: f20212071@goa.bits-pilani.ac.in OR adityabhat2003@yahoo.com
-
-## Overview
- 
-The technical paper "On the Constancy of Latency at the Internet's Edge" presented at TMA Conference 2025 is available [here](https://tma.ifip.org/2025/wp-content/uploads/sites/14/2025/06/tma2025_paper10.pdf)
 
 ## Data
 
@@ -59,9 +53,8 @@ The notebooks in `notebooks/` are organized as follows:
 
 Placeholders: Obvious data path placeholders have been replaced to point into `data/` (e.g., anchor and anchors-details JSON files, input results dir). You may still need to provide external paths for any API credentials if you intend to re-run data collection.
 
-The `src/` directory contains reusable code that backs the notebooks and reproduces figures. In particular, `src/plotting/` holds self-contained scripts for paper figures; each script typically reads prepared CSV/JSON from `data/csv/` (and sometimes `data/text/`) and writes publication-ready figures to `data/plots/`. Common flags are defined in `src/plotting/options.py`, and shared helpers (styling, label/axis formatting, simple I/O) live in `src/plotting/utils.py`. Other subdirectories under `src/` include processing utilities and small tools used during analysis.
+The `src/` directory contains reusable code that backs the notebooks and reproduces figures. In particular, `src/plotting/` holds self-contained scripts for paper figures; each script typically reads prepared CSV/JSON from `data/csv/` (and sometimes `data/text/`) and writes publication-ready figures to `data/plots/`. Common flags are defined in `src/plotting/options.py`, and shared helpers (styling, label/axis formatting, simple I/O) live in `src/plotting/utils.py`. The `src/processing/` directory contains scripts that generate the CSV files used by plotting scripts, including change-point detection algorithms (bootstrap, ranks, HMM), common statistical values, and other measures of constancy. Other subdirectories under `src/` include small tools used during analysis.
 
- Work in progress...
 
 ## Citation
 
